@@ -29,7 +29,7 @@ Atualizar a lista de pacotes:
 Instalar o mysql server, apache2, build-essential, snmp-mibs-downloader, snmp:
 #### apt-get install mysql-server apache2 build-essential snmp-mibs-downloader snmp
 
-### Obs: No momento da instalação irá pedir para criar uma senha para o usuário root do Mysql:
+## Obs: No momento da instalação irá pedir para criar uma senha para o usuário root do Mysql:
 
 Instalar os pacotes do zabbix:
 #### apt-get install zabbix-server-mysql zabbix-frontend-php zabbix-agent zabbix-get zabbix-sender zabbix-java-gateway
